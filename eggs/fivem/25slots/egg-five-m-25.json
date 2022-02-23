@@ -44,7 +44,7 @@
             "default_value": "25",
             "user_viewable": true,
             "user_editable": false,
-            "rules": "required|integer|between:1,1024"
+            "rules": "required|integer|between:1,26"
         },
         {
             "name": "Server Hostname",
